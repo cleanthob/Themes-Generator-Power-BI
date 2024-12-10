@@ -1,0 +1,125 @@
+{
+  "name": "tema_power_portal",
+  "dataColors": [
+    "#118dff",
+    "#12239e",
+    "#e66c37",
+    "#6b007b",
+    "#e044a7",
+    "#744ec2"
+  ],
+  "textClasses": {
+    "callout": {
+      "fontSize": 12,
+      "color": "#000000",
+      "fontFace": "DIN"
+    },
+    "title": {
+      "fontSize": 12,
+      "color": "#000000",
+      "fontFace": "DIN"
+    },
+    "header": {
+      "fontSize": 12,
+      "color": "#000000",
+      "fontFace": "DIN"
+    },
+    "label": {
+      "fontSize": 12,
+      "color": "#000000",
+      "fontFace": "DIN"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "gridlineShow": false,
+            "showAxisTitle": false,
+            "gridlineColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "gridlineShow": false,
+            "showAxisTitle": false,
+            "gridlineColor": {
+              "solid": {
+                "color": "#000000"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "fontFamily": "DIN"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
